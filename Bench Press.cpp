@@ -1,4 +1,4 @@
-https://www.codechef.com/LTIME95B/problems/BENCHP
+// https://www.codechef.com/LTIME95B/problems/BENCHP
 #include <bits/stdc++.h>
 #include <iostream>
 #include <math.h>
