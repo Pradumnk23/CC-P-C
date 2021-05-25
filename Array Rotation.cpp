@@ -48,8 +48,8 @@ int main()
     while(q--)
     {
         cin>>x;
-        s+=s;
-        s=((s%MOD)+MOD)%MOD;
+        s+=s; // double the current s as no of queries
+        s=((s%MOD)+MOD)%MOD; 
         cout<<s<<endl;
     }
     return 0;
